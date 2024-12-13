@@ -1,0 +1,17 @@
+[project]
+name = "phantom-thread"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "httpx>=0.28.1",
+    "openai>=1.57.3",
+    "pydantic-ai>=0.0.12",
+    "python-dotenv>=1.0.1",
+    "rich>=13.9.4",
+    "schedule>=1.2.2",
+    "tweepy>=4.14.0",
+    "twikit>=2.2.0",
+]
